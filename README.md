@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**PokeTideBots/PokeTideBots** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![PokeTideBots](https://telegra.ph/file/afd650765c835ab59faac.png)
 
 Here are some ideas to get you started:
 
